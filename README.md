@@ -1,14 +1,4 @@
-# Back-end | Variáveis
-
-## Iniciando o projeto
-```
-  npm install
-```
-
-## Testando o exercício
-```
-  npm run start ./<pasta do exercicio>/<nome do exercicio>
-```
+# Variáveis
 
 ## Exercícios
 
@@ -18,5 +8,4 @@
 4.  Calcular a distância entre dois pontos
 5.  Calculo do perímetro e área de um círculo
 6.  Soma dos ângulos internos de um polígono
-7. Delta
-
+7.  Delta
